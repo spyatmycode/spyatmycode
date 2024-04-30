@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on DevReport.<br>👯 I’m looking to collaborate on software content creation..<br>🤝 I’m looking for help with open source<br>🌱 I’m currently learning Typescript<br>💬 Ask me about Javascript<br>⚡ Fun fact - Deez
+<br>This is very much outdated.
 
 
 ## 🌐 Socials:
